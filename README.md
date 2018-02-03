@@ -10,7 +10,7 @@ The objective of this game is to try to match your score with a randomly generat
 
 In order to learn the value of each gem, the player must deduce information from the updated score. Once the score matches the target, the player wins. If their number goes above the target, they lose. The scoreboard then updates their win or loss, chooses new values for the target and gems and resets their score.
 
-<img src = "https://jstep1.github.io/week-4-game/assets/images/crystalcollector.gif">
+<img src = "https://jstep1.github.io/week-4-game/assets/images/crystalcollector.mp4">
 
 This game was made using a combination of HTML, CSS, Javascript and jQuery. Please see the source files for information regarding the context used.
 
