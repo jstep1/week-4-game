@@ -1,0 +1,30 @@
+* {
+    color: white;
+}
+
+.bkr {
+    background-color: black;
+}
+
+.hdr {
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+.cntr {
+    text-align: center;
+}
+
+.img {
+    margin-right: auto;
+    margin-left: auto;
+    height: 60px;
+    width: 60px;
+    background-color: white;
+}
+
+.border {
+    border: none;
+}
